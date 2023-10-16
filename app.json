@@ -2,6 +2,7 @@
   "expo": {
     "name": "expo-49-exist",
     "slug": "expo-49-exist",
+    "scheme": "expo-49-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

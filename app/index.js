@@ -7,7 +7,7 @@ const Page = () => {
     return (
         <View>
             <Button onPress={() => router.push("/register")} title="Open Register" />
-            <Link href={'/register'}>
+            <Link href={'/register'} asChild>
                 <Button title="Open Register with link" />
             </Link>
             <Text>Hello world</Text>
